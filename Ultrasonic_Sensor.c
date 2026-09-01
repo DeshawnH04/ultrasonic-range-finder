@@ -17,10 +17,7 @@
 /* Group 6 
 //hardware connection PB4 echo pin
 //hardware connection PB5 trigger pin
-Brandon Jamjampour
-Daniel Banuelos
-Anthony Nuth
-Anastacia Estrella
+
 */
 
 #include <stdint.h>
