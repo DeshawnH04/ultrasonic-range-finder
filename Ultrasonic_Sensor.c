@@ -14,13 +14,10 @@
 //distance being read from the sensor on the serial port communcation
 //along with three leds that correspond to certain distances on the portF
 
-/* Group 6 
+/*  
 //hardware connection PB4 echo pin
 //hardware connection PB5 trigger pin
-Brandon Jamjampour
-Daniel Banuelos
-Anthony Nuth
-Anastacia Estrella
+
 */
 
 #include <stdint.h>
